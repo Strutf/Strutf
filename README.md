@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img height="54cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img height="54cm" src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/victor-flórido/"><img height="54cm" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.behance.net/da6df1be"><img height="54cm" src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=white"/></a>
 </div>
